@@ -1,0 +1,35 @@
+/* General Styles */
+body 
+{
+    background-color: lavender;
+    background-position:right;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKBU-40Dm3rAO94LnTHligIMrieeIcynHTnQ&s');
+    background-repeat: no-repeat;
+    background-size:20%;
+}
+header 
+{
+    text-align: center;
+    padding: 20px;
+}
+marquee
+{
+    color:rgb(245, 58, 201);
+    font-size: xx-large;
+    font-style: italic;
+}
+h1 
+{
+    color:royalblue;
+}
+h2 
+{
+    font-style: italic;
+    color:blueviolet;
+}
+p 
+{
+    font-size: larger;
+    line-height: 1.6;
+    margin: 20px;
+}
